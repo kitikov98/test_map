@@ -1,0 +1,6 @@
+certifi==2022.12.7
+numpy==1.23.5
+opencv-python==4.6.0.66
+Pillow==9.2.0
+pyproj==3.4.1
+rosreestr2coord==4.1.6
